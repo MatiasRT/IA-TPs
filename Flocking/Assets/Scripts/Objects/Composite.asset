@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Composite
   m_EditorClassIdentifier: 
   behaviors:
-  - {fileID: 11400000, guid: a50b40059817bea40bb0f342c9a5eaa6, type: 2}
+  - {fileID: 11400000, guid: 65568a50208b79542bbdec6fba7eb717, type: 2}
   - {fileID: 11400000, guid: 5f61c242e756a82499d9f89b34aa9a35, type: 2}
   - {fileID: 11400000, guid: 23ee6d414d8df9b40a84163a0165b992, type: 2}
   - {fileID: 11400000, guid: 20486e029f0c96248abbd32bc898944e, type: 2}
